@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Advanced ReactJS, TailwindCSS, GraphQL**
+- 🌱 I’m currently learning **Advanced NextJS, Solidity code**
 
 - 📫 How to reach me **mhamzafaisal1@gmail.com**
 
