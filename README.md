@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mhamzafaisal1@gmail.com**
 
-![Muhammad Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alok-joseph&show_icons=true&theme=radical)
+![Muhammad Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhamzafaisal1&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
